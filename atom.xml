@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://SophiaZ.github.io</id>
+    <id>https://serendipity1013.github.io</id>
     <title>Gridea</title>
-    <updated>2021-12-18T19:41:00.110Z</updated>
+    <updated>2021-12-18T19:43:36.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://SophiaZ.github.io"/>
-    <link rel="self" href="https://SophiaZ.github.io/atom.xml"/>
+    <link rel="alternate" href="https://serendipity1013.github.io"/>
+    <link rel="self" href="https://serendipity1013.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://SophiaZ.github.io/images/avatar.png</logo>
-    <icon>https://SophiaZ.github.io/favicon.ico</icon>
+    <logo>https://serendipity1013.github.io/images/avatar.png</logo>
+    <icon>https://serendipity1013.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://SophiaZ.github.io/post/about/</id>
-        <link href="https://SophiaZ.github.io/post/about/">
+        <id>https://serendipity1013.github.io/post/about/</id>
+        <link href="https://serendipity1013.github.io/post/about/">
         </link>
         <updated>2019-01-24T09:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
