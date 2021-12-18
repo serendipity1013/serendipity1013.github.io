@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serendipity1013.github.io</id>
     <title>Gridea</title>
-    <updated>2021-12-18T20:07:20.118Z</updated>
+    <updated>2021-12-18T20:35:19.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://serendipity1013.github.io"/>
     <link rel="self" href="https://serendipity1013.github.io/atom.xml"/>
@@ -11,20 +11,11 @@
     <icon>https://serendipity1013.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Curriculum vitae]]></title>
-        <id>https://serendipity1013.github.io/post/curriculum-vitae/</id>
-        <link href="https://serendipity1013.github.io/post/curriculum-vitae/">
-        </link>
-        <updated>2021-12-18T07:06:36.000Z</updated>
-        <content type="html"><![CDATA[<p>be</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://serendipity1013.github.io/post/about/</id>
         <link href="https://serendipity1013.github.io/post/about/">
         </link>
-        <updated>2019-01-23T20:09:48.000Z</updated>
+        <updated>2019-01-23T07:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>Welcome to my station. Nice to meet you！</p>
 </blockquote>
